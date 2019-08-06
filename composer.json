@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^3.12",
+        "illuminate/database": "~5.1",
+        "slim/twig-view": "^2.5",
+        "vlucas/phpdotenv": "^3.4"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Unir\\" : "src/"
+        }
+    }
+}
